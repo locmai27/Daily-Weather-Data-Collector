@@ -1,4 +1,4 @@
-Automate collecting task by sheduling a cronjob by the following steps:
+Automate collecting task by using a cron job by the following steps:
 
 Step 1: Edit your crontab: 
 crontab -e
